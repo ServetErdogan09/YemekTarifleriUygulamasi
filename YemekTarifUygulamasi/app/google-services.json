@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699085118321",
+    "project_id": "yemektarifuygulamasi-71a41",
+    "storage_bucket": "yemektarifuygulamasi-71a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699085118321:android:bcb0b613479bdad2d7b4d0",
+        "android_client_info": {
+          "package_name": "com.example.yemektarifuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheXrWUIQMx6LdZ_1SLFrzQtFAJ-cjVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
